@@ -4,4 +4,5 @@ applications:
   instances: 1
   memory: 256M
   host: codefish
+  domain: cfapps.io
   path: target/universal/codefish-1.0-SNAPSHOT.zip
