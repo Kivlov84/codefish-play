@@ -4,4 +4,4 @@ applications:
   instances: 1
   memory: 256M
   host: codefish
-  path: target/universal/play-test-app-1.0-SNAPSHOT.zip
+  path: target/universal/codefish-1.0-SNAPSHOT.zip
