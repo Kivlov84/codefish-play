@@ -2,3 +2,4 @@ applications:
 -
   name: codefish
   instances: 1
+  memory: 256M
